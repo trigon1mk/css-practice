@@ -1,7 +1,10 @@
-html {
-  max-width: 720px;
+.card {
+  color: hsla(248, 88%, 45%, 0.607);
+  border: 1px dotted red;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
-body {
-  background: #fff;
+input {
+  outline: 1px double red;
 }
